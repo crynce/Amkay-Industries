@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Amkay - Royal Enfield Precision Parts",
+  "description": "A premium manufacturing showcase for Royal Enfield components featuring an AI-powered part consultant and high-end industrial design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
